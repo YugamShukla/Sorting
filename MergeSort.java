@@ -1,4 +1,4 @@
-package Sorting;
+
 public class MergeSort {
     private static void mergeSrt(int[] arr, int[] tempArray, int lowerIndex, int upperIndex) {
         if (lowerIndex >= upperIndex) {
