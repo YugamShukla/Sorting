@@ -1,3 +1,4 @@
+package Sorting;
 
 public class InsertionSort {
     private static boolean more(int value1, int value2) {

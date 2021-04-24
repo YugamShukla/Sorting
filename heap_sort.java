@@ -1,3 +1,5 @@
+package Sorting;
+
 // Priority Queue implementation in Java
 
 import java.util.ArrayList;
